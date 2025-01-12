@@ -23,7 +23,6 @@ fn main() {
     println!(r#" | |  | |_| \__ \ |_| | | | | | (_| \__ \ "#);
     println!(r#" |_|   \__,_|___/\__|_|_|_| |_|\__, |___/ "#);
     println!(r#"                               |___/      "#);
-    println!();
     println!("This exercise compiles successfully. The remaining exercises contain a compiler");
     println!("or logic error. The central concept behind Rustlings is to fix these errors and");
     println!("solve the exercises. Good luck!");
@@ -32,7 +31,6 @@ fn main() {
     println!(
         "Going forward, the source of the exercises will always be in the success/failure output."
     );
-    println!();
     println!(
         "If you want to use rust-analyzer, Rust's LSP implementation, make sure your editor is set"
     );
